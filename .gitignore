@@ -17,3 +17,7 @@ __pycache__/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos de datos generados por el proyecto
+data/processed/features_by_window.csv
+data/raw/events_normalized.csv
