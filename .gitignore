@@ -23,3 +23,4 @@ data/processed/features_by_window.csv
 data/raw/events_normalized.csv
 models/supervised/artifacts/
 models/unsupervised/artifacts/
+data/scenarios/synthetic_training_windows.csv
